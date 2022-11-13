@@ -1,6 +1,6 @@
 package practice;
 
-public class Array2 {
+public class ArrayWithIfElse {
 	public static void main(String[] args) {
 		int[] randomNumbers = {51, 108, 28};
 		for (int number : randomNumbers) {
